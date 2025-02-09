@@ -1,0 +1,10 @@
+
+git init 
+git add . সব ফাইল যোগ করা
+git commit -m "আপনার যেকোনো কমেন্ট"
+git branch -M main কোন ব্রাঞ্চ এ আপলোড করবো
+git remote add origin https://github.com/afsanamimimim/test.git গিট এর কোন লোকেশন এ আপলোড করবো
+git push -u origin main আপলোড করা
+
+
+কোড আ্ডেট এর জন্য এর জন্য
